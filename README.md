@@ -42,4 +42,5 @@ I’m grateful to CodSoft for providing this opportunity to gain hands-on experi
 
 👨‍💻 Author
 
-Shaan
+Shaan Sayyad
+
