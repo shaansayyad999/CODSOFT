@@ -1,46 +1,115 @@
-☕ Java Development Internship – CodSoft
+# ☕ Java Development Internship – CodSoft  
 
-I’m pleased to share that I successfully completed my Java Development Internship at CodSoft, where I had the opportunity to work on practical projects focused on Core Java and Object-Oriented Programming (OOP).
-This experience helped me move beyond theory and apply concepts in real coding scenarios, improving both my problem-solving approach and coding confidence.
+I successfully completed a Java Development Internship at CodSoft, where I worked on hands-on projects using Core Java and Object-Oriented Programming (OOP).  
+This internship helped me apply theoretical concepts in real coding scenarios and improve my problem-solving and development skills.
 
-🚀 Projects Completed
-🎯 Number Guessing Game
+---
 
-A console-based interactive game where users guess a randomly generated number within limited attempts.
-Key learnings: random number generation, user input handling, conditional logic, loops.
+## 🚀 Projects  
 
-📊 Grade Calculator
+### 🎯 Number Guessing Game  
+A console-based interactive game where the user has to guess a randomly generated number within limited attempts.  
 
-A program that calculates total marks, percentage, and grade based on multiple subject inputs.
-Key learnings: input validation, data processing, decision-making logic.
+**Features:**  
+- Random number generation  
+- Limited attempts system  
+- User feedback (too high / too low)  
 
-🏧 ATM Machine Simulation
+**Concepts Used:**  
+- Loops  
+- Conditional statements  
+- User input handling  
 
-A menu-driven banking simulation allowing balance checks, deposits, and withdrawals.
-Key learnings: OOP implementation, encapsulation, real-world problem modeling.
+---
 
-🎓 Student Management System
+### 📊 Grade Calculator  
+A program that calculates total marks, percentage, and grade based on user input.  
 
-A console application to add, remove, search, and display student records using ArrayList.
-Key learnings: object management, CRUD operations, collections framework.
+**Features:**  
+- Input multiple subject marks  
+- Automatic percentage calculation  
+- Grade assignment logic  
 
-💡 Skills Strengthened
+**Concepts Used:**  
+- Input validation  
+- Arithmetic operations  
+- Decision-making logic  
 
-Core Java programming fundamentals
+---
 
-Object-Oriented Programming (Encapsulation, Class Design)
+### 🏧 ATM Machine Simulation  
+A menu-driven banking system that allows users to perform basic operations.  
 
-Logical thinking and control flow implementation
+**Features:**  
+- Balance check  
+- Deposit money  
+- Withdraw money  
+- Simple user interface  
 
-Data handling using ArrayList
+**Concepts Used:**  
+- Object-Oriented Programming (OOP)  
+- Encapsulation  
+- Menu-driven programs  
 
-Input validation and menu-driven application design
+---
 
-🙌 Acknowledgment
+### 🎓 Student Management System  
+A console-based application to manage student records.  
 
-I’m grateful to CodSoft for providing this opportunity to gain hands-on experience, improve my coding skills, and deepen my understanding of Java development through practical work.
+**Features:**  
+- Add student  
+- Remove student  
+- Search student  
+- Display all records  
 
-👨‍💻 Author
+**Concepts Used:**  
+- ArrayList (Collections Framework)  
+- CRUD operations  
+- Object management  
 
-Shaan Sayyad
+---
 
+## 💡 Skills Gained  
+
+- Core Java programming  
+- Object-Oriented Programming (OOP)  
+- Problem-solving and logical thinking  
+- Collections (ArrayList)  
+- Input validation and program design  
+
+---
+
+## 🛠️ Technologies Used  
+
+- Java  
+- VS Code / IntelliJ IDEA  
+- JDK  
+
+---
+
+## ▶️ How to Run  
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   ```
+
+2. Open the project in your IDE  
+
+3. Compile and run any `.java` file  
+   ```bash
+   javac FileName.java
+   java FileName
+   ```
+
+---
+
+## 📌 Conclusion  
+
+This internship strengthened my Java fundamentals and helped me understand how to build real-world console-based applications using OOP principles.
+
+---
+
+## 👨‍💻 Author  
+
+**Shaan Sayyad**
